@@ -1,9 +1,12 @@
 # ![https://businessanalytics.solutions/](https://raw.githubusercontent.com/BAnalytics-AI/BAnalytics-AI/main/LogoBA_chico.jpg) Business Analytics
 > _"No es posible resolver los problemas de hoy, con soluciones de ayer"_
 
-#### Somos una empresa especializada en analítica empresarial, facilitando la comprensión de los resultados de negocio, permitiendo anticiparse a ellos e identificando tendencias, modelos y anomalías para, posteriormente, poder analizarlos.
+#### La analítica es un campo incluyente y multidimensional que utiliza matemáticas, estadística, modelos predictivos y técnicas de aprendizaje basado en máquina para hallar patrones como conocimientos en datos grabados. 
+#### Hoy día, agregamos computadoras poderosas para almacenar cantidades cada vez mayores de datos y ejecutar algoritmos de software avanzados – produciendo con ello los rápidos insights que se necesitan para tomar decisiones basadas en hechos. Poniendo a trabajar la ciencia de los números, datos y el descubrimiento analítico, podemos averiguar si lo que pensamos o creemos en en realidad cierto. Y producir respuestas a preguntas que nunca pensamos formular. 
 
 [![Smart Virtual Assistant](https://raw.githubusercontent.com/BAnalytics-AI/BAnalytics-AI/main/Fondo_.jpg)](https://youtu.be/UYExYDMDz0A "Smart Virtual Assistant")
+
+#### Somos una empresa especializada en analítica empresarial, facilitando la comprensión de los resultados de negocio, permitiendo anticiparse a ellos e identificando tendencias, modelos y anomalías para, posteriormente, poder analizarlos.
 
 ## Lo que podemos hacer con tus datos:
 [![Limpiar](https://img.shields.io/static/v1?label=Limpiar&message=Data_Quality&color=<COLOR>)]()

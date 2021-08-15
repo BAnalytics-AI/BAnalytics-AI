@@ -1,4 +1,4 @@
-# ![https://mouredev.com](https://raw.githubusercontent.com/BAnalytics-AI/Inicio/main/LogoBA_chico.jpg) Business Analytics
+# ![https://businessanalytics.solutions/](https://raw.githubusercontent.com/BAnalytics-AI/Inicio/main/LogoBA_chico.jpg) Business Analytics
 > _"No es posible resolver los problemas de hoy, con soluciones de ayer"_
 
 #### Somos una empresa especializada en analítica empresarial, facilitando la comprensión de los resultados de negocio, permitiendo anticiparse a ellos e identificando tendencias, modelos y anomalías para, posteriormente, poder analizarlos.

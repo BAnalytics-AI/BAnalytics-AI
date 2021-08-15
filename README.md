@@ -18,8 +18,8 @@
 
 ## Algunos videos:
 [![Esta es una imagen de ejemplo](https://raw.githubusercontent.com/BAnalytics-AI/BAnalytics-AI/main/VideoA_.jpg)](https://youtu.be/LFJoj5zR99c) 
-[![Esta es una imagen de ejemplo](https://raw.githubusercontent.com/BAnalytics-AI/BAnalytics-AI/main/Video1.jpg)](https://youtu.be/jdqIB6sXJj8) 
-[![Esta es una imagen de ejemplo](https://raw.githubusercontent.com/BAnalytics-AI/BAnalytics-AI/main/Video2.jpg)](https://youtu.be/nCSE8kpiysk) 
+[![Esta es una imagen de ejemplo](https://raw.githubusercontent.com/BAnalytics-AI/BAnalytics-AI/main/VideoB_.jpg)](https://youtu.be/jdqIB6sXJj8) 
+[![Esta es una imagen de ejemplo](https://raw.githubusercontent.com/BAnalytics-AI/BAnalytics-AI/main/VideoC_.jpg)](https://youtu.be/nCSE8kpiysk) 
 
 ## Encuentranos:
 [![YouTube](https://img.shields.io/badge/YouTube-Business_Analytics-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://www.youtube.com/channel/UCKAk_1VH1lOGS4FWOtqrjWA)

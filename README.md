@@ -3,7 +3,6 @@
 
 #### Somos una empresa especializada en analítica empresarial, facilitando la comprensión de los resultados de negocio, permitiendo anticiparse a ellos e identificando tendencias, modelos y anomalías para, posteriormente, poder analizarlos.
 
-## Bienvenido:
 [![Smart Virtual Assistant](https://res.cloudinary.com/marcomontalbano/image/upload/v1629055107/video_to_markdown/images/youtube--UYExYDMDz0A-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/UYExYDMDz0A "Smart Virtual Assistant")
 
 ## Lo que podemos hacer con tus datos:

@@ -17,7 +17,7 @@
 
 
 ## Algunos videos:
-[![Esta es una imagen de ejemplo](https://raw.githubusercontent.com/BAnalytics-AI/BAnalytics-AI/main/Video0.jpg)](https://youtu.be/LFJoj5zR99c) 
+[![Esta es una imagen de ejemplo](https://raw.githubusercontent.com/BAnalytics-AI/BAnalytics-AI/main/VideoA_.jpg)](https://youtu.be/LFJoj5zR99c) 
 [![Esta es una imagen de ejemplo](https://raw.githubusercontent.com/BAnalytics-AI/BAnalytics-AI/main/Video1.jpg)](https://youtu.be/jdqIB6sXJj8) 
 [![Esta es una imagen de ejemplo](https://raw.githubusercontent.com/BAnalytics-AI/BAnalytics-AI/main/Video2.jpg)](https://youtu.be/nCSE8kpiysk) 
 

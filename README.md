@@ -9,13 +9,10 @@
 #### Somos una empresa especializada en analítica empresarial, facilitando la comprensión de los resultados de negocio, permitiendo anticiparse a ellos e identificando tendencias, modelos y anomalías para, posteriormente, poder analizarlos.
 
 ## Lo que podemos hacer con tus datos:
-[![Limpiar](https://img.shields.io/static/v1?label=Limpiar&message=Data_Quality&color=<COLOR>)]()
-
-[![Consolidar](https://img.shields.io/static/v1?label=Consolidar&message=Data_Management&color=<COLOR>)]()
-
-[![Medir](https://img.shields.io/static/v1?label=Medir&message=Descriptive_Analytics&color=<COLOR>)]()
-
-[![Predecir](https://img.shields.io/static/v1?label=Predecir&message=Advanced_Analytics&color=<COLOR>)]()
+[![Limpiar](https://img.shields.io/static/v1?label=Limpiar&message=Data_Quality&color=White)]()
+[![Consolidar](https://img.shields.io/static/v1?label=Consolidar&message=Data_Management&color=White)]()
+[![Medir](https://img.shields.io/static/v1?label=Medir&message=Descriptive_Analytics&color=White)]()
+[![Predecir](https://img.shields.io/static/v1?label=Predecir&message=Advanced_Analytics&color=White)]()
 
 
 ## Casos de exito:
@@ -26,9 +23,9 @@
 [![Esta es una imagen de ejemplo](https://raw.githubusercontent.com/BAnalytics-AI/BAnalytics-AI/main/VideoC_.jpg)](https://youtu.be/nCSE8kpiysk) 
 
 ## Nuestros socios:
-[![LGoogle](https://img.shields.io/static/v1?label=Google&message=Partner&color=<COLOR>)]()
-[![Microsoft](https://img.shields.io/static/v1?label=Microsoft&message=Partner&color=<COLOR>)]()
-[![Amazon](https://img.shields.io/static/v1?label=Amazon&message=Partner&color=<COLOR>)]()
+[![Google](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)]()
+[![Microsoft](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)]()
+[![Amazon](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)]()
 
 ## Encuentranos:
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCKAk_1VH1lOGS4FWOtqrjWA)

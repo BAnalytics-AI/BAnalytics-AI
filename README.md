@@ -8,26 +8,26 @@
 
 #### Somos una empresa especializada en analítica empresarial, facilitando la comprensión de los resultados de negocio, permitiendo anticiparse a ellos e identificando tendencias, modelos y anomalías para, posteriormente, poder analizarlos.
 
-## Lo que podemos hacer con tus datos:
+### Lo que podemos hacer con tus datos:
 [![Limpiar](https://img.shields.io/static/v1?label=Limpiar&message=Data_Quality&color=White)]()
 [![Consolidar](https://img.shields.io/static/v1?label=Consolidar&message=Data_Management&color=White)]()
 [![Medir](https://img.shields.io/static/v1?label=Medir&message=Descriptive_Analytics&color=White)]()
 [![Predecir](https://img.shields.io/static/v1?label=Predecir&message=Advanced_Analytics&color=White)]()
 
 
-## Casos de exito:
+### Casos de exito:
 [![Esta es una imagen de ejemplo](https://raw.githubusercontent.com/BAnalytics-AI/BAnalytics-AI/main/VideoA_.jpg)](https://youtu.be/LFJoj5zR99c) 
 
 [![Esta es una imagen de ejemplo](https://raw.githubusercontent.com/BAnalytics-AI/BAnalytics-AI/main/VideoB_.jpg)](https://youtu.be/jdqIB6sXJj8) 
 
 [![Esta es una imagen de ejemplo](https://raw.githubusercontent.com/BAnalytics-AI/BAnalytics-AI/main/VideoC_.jpg)](https://youtu.be/nCSE8kpiysk) 
 
-## Nuestros socios:
+### Nuestros socios:
 [![Google](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)]()
 [![Microsoft](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)]()
 [![Amazon](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)]()
 
-## Encuentranos:
+### Encuentranos:
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCKAk_1VH1lOGS4FWOtqrjWA)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/SolutionsBA)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SolutionsBA)
@@ -35,6 +35,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://banalytics-ai.github.io/BAnalytics-AI/)
 [![Web](https://img.shields.io/badge/Website-39477F?style=for-the-badge&logo=realm&logoColor=white)](https://businessanalytics.solutions/)
 
-## Contacto:
+### Contacto:
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=59176713672)
 [![Email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=outlook&logoColor=white)](mailto:info@businessanalytics.solutions)

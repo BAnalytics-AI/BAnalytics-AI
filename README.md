@@ -36,5 +36,4 @@
 [![Web](https://img.shields.io/badge/Website-39477F?style=for-the-badge&logo=realm&logoColor=white)](https://businessanalytics.solutions/)
 
 ### Contacto:
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=59176713672)
 [![Email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=outlook&logoColor=white)](mailto:info@businessanalytics.solutions)
